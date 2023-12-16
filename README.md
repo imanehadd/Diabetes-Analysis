@@ -21,7 +21,7 @@ The dataset's purpose is to diagnostically predict whether or not a patient has 
 ### Patient Selection Criteria
 All individuals in this dataset are female, at least 21 years old, and of Pima Indian heritage.
 
-### Feature Description
+### columns Description
 The dataset comprises several medical predictor variables and one target variable, Outcome. The independent variables include:
 - **Pregnancies**: Number of times pregnant.
 - **Glucose**: Plasma glucose concentration 2 hours in an oral glucose tolerance test.
