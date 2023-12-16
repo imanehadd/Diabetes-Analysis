@@ -31,8 +31,8 @@ The dataset comprises several medical predictor variables and one target variabl
 - **BMI**: Body mass index (weight in kg/(height in m)^2).
 - **DiabetesPedigreeFunction**: Diabetes pedigree function.
 - **Age**: Age in years.
+  
 The dependent variable is:
-
 - **Outcome**: Indicates whether the patient has diabetes (1) or not (0).
 
 ## Tools and Technologies
