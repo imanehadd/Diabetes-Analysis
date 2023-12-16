@@ -27,7 +27,7 @@ All individuals in this dataset are female, at least 21 years old, and of Pima I
 - **BMI**: Body mass index (weight in kg/(height in m)^2).
 - **DiabetesPedigreeFunction**: Diabetes pedigree function.
 - **Age**: Age in years.
-- **Outcome**: Class variable (0 or 1) indicating if the patient has diabetes.
+- **Outcome**: Class variable (0 or 1) indicating if the patient has diabetes or not.
 
 ## Tools and Technologies
 - **Programming Language**: Python
