@@ -36,7 +36,7 @@ All individuals in this dataset are female, at least 21 years old, and of Pima I
 - **Machine Learning Algorithm**: Logistic Regression
 - **Model Validation**: train_test_split, accuracy_score
 - **Data Visualization**: scatter_matrix
-- **Libraries**: pandas, numpy, matplotlib, seaborn, missingno
+- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, missingno
 
 ## About the Dataset
 The dataset's purpose is to diagnostically predict whether or not a patient has diabetes, based on a set of diagnostic measurements included in the dataset. The selection of instances adheres to a specific constraint, ensuring all patients are female with a minimum age of 21 years and of Pima Indian heritage.
